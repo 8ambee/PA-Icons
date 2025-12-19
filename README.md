@@ -1,2 +1,2 @@
 # PA-Icons
-icons
+icons used in web-gis project
